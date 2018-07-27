@@ -1,9 +1,9 @@
 {
-    "name": "greeter-bot",
+    "name": "hahaYesBot",
     "version": "1.0.0",
-    "description": "My First Discord Bot",
+    "description": "suicide and depression memes on demand",
     "main": "bot.js",
-    "author": "Your Name",
+    "author": "Samuel Ludwig",
     "dependencies": {
         "discord.io": "^2.5.3",
         "winston": "^3.0.0"
